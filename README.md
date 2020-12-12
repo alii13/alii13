@@ -12,5 +12,5 @@ Some of my key skills include -  React, NodeJs, MongoDB, Express, Gatsby, NextJs
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/genialkartik/count.svg" />
+  <img src="https://profile-counter.glitch.me/alii13/count.svg" />
 </p>
