@@ -9,3 +9,8 @@ Some of my key skills include -  React, NodeJs, MongoDB, Express, Gatsby, NextJs
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: shekhaliul44@gmail.com
 - ⚡ Fun fact: I love watching cricket and eating food! 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/genialkartik/count.svg" />
+</p>
