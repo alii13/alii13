@@ -9,10 +9,10 @@ Some of my key skills include -  React, NodeJs, MongoDB, Express, Gatsby, NextJs
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: shekhaliul44@gmail.com
 - ⚡ Fun fact: I love watching cricket and eating food! 
-- 📫 Also visit: [https://alii13.github.io/portfolio/](https://kartiktyagi.codes/)
+- 📫 Also visit: [https://alii13.github.io/portfolio/](https://alii13.github.io/portfolio/)
 - :mailbox: Connect with Me on: shekhaliul44@gmai.com <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-@geniakartik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/genial-kartik/)](https://www.linkedin.com/in/shekh-aliul/) [![Instagram Badge](https://img.shields.io/badge/-@aliii___19-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/genialkartik/)](https://www.instagram.com/aliii___19/)
+[![Linkedin Badge](https://img.shields.io/badge/-@shekhaliul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shekh-aliul/)](https://www.linkedin.com/in/shekh-aliul/) [![Instagram Badge](https://img.shields.io/badge/-@aliii___19-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/genialkartik/)](https://www.instagram.com/aliii___19/)
 
 <p align="center"> 
   Visitor count<br>
