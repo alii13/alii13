@@ -2,7 +2,7 @@
 
 [![Shekh Aliul's github stats](https://github-readme-stats.vercel.app/api?username=alii13&show_icons=true&theme=radical)]()
 
-I'm a frontend engineer with high-quality front-end skills. I am currently working as an **SDE-II** at [Atlan](https://atlan.com). I really enjoy making fast, scalable, and interactive web apps which is easy to use. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.
+I'm a frontend engineer with high-quality front-end skills. I am currently working as an **SDE-III** at [Atlan](https://atlan.com). I really enjoy making fast, scalable, and interactive web apps which is easy to use. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.
 
 Some of my key skills include -  React, NodeJs, MongoDB, Express, Gatsby, NextJs, GSAP, Bootstrap, JavaScript, Python and C++
 
