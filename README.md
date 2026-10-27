@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Shekh Aliul's github stats](https://github-readme-stats.vercel.app/api?username=alii13&show_icons=true&theme=radical)]()
+[![Shekh Aliul's github stats](https://github-readme-stats.vercel.app/api?username=alii13&show_icons=true&theme=radical)]() [![Verified AI token usage](https://tokenproof.pages.dev/alii13/card.svg)](https://tokenproof.pages.dev/alii13)
+
+[![AI agent activity](https://tokenproof.pages.dev/alii13/heatmap.svg)](https://tokenproof.pages.dev/alii13)
 
 I'm a frontend engineer with high-quality front-end skills. I am currently working as an **SDE-III** at [Atlan](https://atlan.com). I really enjoy making fast, scalable, and interactive web apps which is easy to use. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.
 
