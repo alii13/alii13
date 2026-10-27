@@ -15,8 +15,3 @@ Some of my key skills include -  React, NodeJs, MongoDB, Express, Gatsby, NextJs
 - :mailbox: Connect with Me at: shekhaliul44@gmai.com <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-@shekhaliul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shekh-aliul/)](https://www.linkedin.com/in/shekh-aliul/) [![Instagram Badge](https://img.shields.io/badge/-@aliii___19-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/genialkartik/)](https://www.instagram.com/aliii___19/)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/alii13/count.svg" />
-</p>
