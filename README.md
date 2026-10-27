@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Verified AI token usage](https://tokenproof.pages.dev/alii13/card.svg "Verified = tokens counted and signed live on the author's Mac by tokenproof. The rest is self-reported history from before it was installed.")](https://tokenproof.pages.dev/alii13)
+[![Verified AI token usage](https://tokenproof.pages.dev/alii13/card.svg "AI agent token usage from Claude Code and Codex, in Opus-equivalent tokens (cheaper models count for less). Verified = counted and signed live on the author's Mac via Apple App Attest, so it can't be edited. The rest is self-reported history from before tokenproof was installed. Click for the breakdown and to verify the signatures yourself.")](https://tokenproof.pages.dev/alii13)
 
 I'm a frontend engineer with high-quality front-end skills. I am currently working as an **SDE-III** at [Atlan](https://atlan.com). I really enjoy making fast, scalable, and interactive web apps which is easy to use. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.
 
