@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Shekh Aliul's github stats](https://github-readme-stats.vercel.app/api?username=alii13&show_icons=true&theme=radical)]() [![Verified AI token usage](https://tokenproof.pages.dev/alii13/card.svg)](https://tokenproof.pages.dev/alii13)
+[![Verified AI token usage](https://tokenproof.pages.dev/alii13/card.svg)](https://tokenproof.pages.dev/alii13)
 
 [![AI agent activity](https://tokenproof.pages.dev/alii13/heatmap.svg)](https://tokenproof.pages.dev/alii13)
 
